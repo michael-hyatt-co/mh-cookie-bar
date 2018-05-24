@@ -2,8 +2,11 @@
     font-size: 13px !important;
 }
 #cookie-bar-prompt-content {
-    font-size: 13px !important;
+    font-size: 13px;
     max-height: 85vh;
+}
+#cookie-bar-prompt-content p {
+	font-size: 13px !important;
 }
 #cookie-bar-browsers a {
     width: 60px;
