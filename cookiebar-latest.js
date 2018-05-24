@@ -117,7 +117,10 @@ function setupCookieBar() {
   else {
     // If the user is in EU, then STARTUP
     var checkEurope = new XMLHttpRequest();
-    checkEurope.open('GET', '//freegeoip.net/json/', true);
+    //checkEurope.open('GET', '//freegeoip.net/json/', true); //country_code
+    checkEurope.open('GET', '//www.geoplugin.net/json.gp', true); //geoplugin_countryCode
+    
+    
     checkEurope.onreadystatechange = function() {
       // Don't process anything else besides finished requests.
       if (checkEurope.readyState !== 4) {
@@ -129,7 +132,8 @@ function setupCookieBar() {
 
       // Process response on case of a successful request.
       if (checkEurope.status === 200) {
-        var country = JSON.parse(checkEurope.responseText).country_code;
+        //var country = JSON.parse(checkEurope.responseText).country_code;
+        var country = JSON.parse(checkEurope.responseText).geoplugin_countryCode;
         if (cookieLawStates.indexOf(country) > -1) {
           startup = true;
         } else {
