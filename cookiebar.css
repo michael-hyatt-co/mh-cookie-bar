@@ -1,8 +1,8 @@
 #cookie-bar {
-    font-size: 13px;
+    font-size: 13px !important;
 }
 #cookie-bar-prompt-content {
-    font-size: 13px;
+    font-size: 13px !important;
     max-height: 85vh;
 }
 #cookie-bar-browsers a {
