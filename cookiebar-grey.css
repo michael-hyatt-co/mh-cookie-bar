@@ -71,7 +71,8 @@
 }
 
 #cookie-bar-button {
-    background-color: #1FAE16;
+    background-color: #aaa;
+    border-radius: 3px;
     color: #FFF !important;
     cursor: pointer;
     display: inline-block;
@@ -83,6 +84,12 @@
     padding: 5px 10px 6px;
     position: relative;
     text-decoration: none;
+    text-transform: uppercase;
+}
+
+#cookie-bar-button:hover {
+	background-color: #1FAE16;
+	text-decoration: none;
 }
 
 #cookie-bar-button-no {
