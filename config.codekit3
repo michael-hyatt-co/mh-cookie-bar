@@ -78,66 +78,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/cookiebar-altblack.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-altblack.min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/cookiebar-altblack.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-altblack.min.min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/cookiebar-flying.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-flying.min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/cookiebar-flying.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-flying.min.min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/cookiebar-grey.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-grey.min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/cookiebar-grey.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-grey.min.min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/cookiebar-latest.js": {
 		"ft": 64,
 		"ma": 0,
@@ -157,26 +97,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"\/cookiebar-white.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-white.min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/cookiebar-white.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/cookiebar-white.min.min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/cookiebar.css": {
 		"aP": 1,
