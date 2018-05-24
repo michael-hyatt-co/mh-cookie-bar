@@ -134,6 +134,9 @@ function setupCookieBar() {
       if (checkEurope.status === 200) {
         //var country = JSON.parse(checkEurope.responseText).country_code;
         var country = JSON.parse(checkEurope.responseText).geoplugin_countryCode;
+        
+        alert('Country: ' + country);
+        
         if (cookieLawStates.indexOf(country) > -1) {
           startup = true;
         } else {
