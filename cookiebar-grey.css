@@ -87,7 +87,7 @@
     text-transform: uppercase;
 }
 
-#cookie-bar-button:hover {
+#cookie-bar a#cookie-bar-button:hover {
 	background-color: #1FAE16;
 	text-decoration: none;
 }
