@@ -8,6 +8,8 @@
 /*
  * Available languages array
  */
+ 
+/*
 var CookieLanguages = [
   'ca',
   'cs',
@@ -26,6 +28,11 @@ var CookieLanguages = [
   'se',
   'sk',
   'sl'
+];
+*/
+
+var CookieLanguages = [
+  'en',
 ];
 
 var cookieLawStates = [
